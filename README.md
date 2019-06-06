@@ -35,11 +35,6 @@ sys 3.7                              subprocess 3.7
 collections 3.7                      matplot.pyplot 3.1.0
 argparse 3.2                         numpy 1.3.0
 
-The program folder contains the script itself, a README file and a BAM-file
-used during development of aDNA Toolbox. It can be used to test the program
-with and to see expected output results when working with reads derived from
-ancient remain, containing aDNA.
-
 Usage:
 The program utilizes argparse, allowing the user to call inputting a BAM-file
 and call different analytic functions. Some of the functions allows the output
