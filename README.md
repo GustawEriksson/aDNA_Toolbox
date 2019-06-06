@@ -38,9 +38,7 @@ argparse 3.2                         numpy 1.3.0
 The program folder contains the script itself, a README file and a BAM-file
 used during development of aDNA Toolbox. It can be used to test the program
 with and to see expected output results when working with reads derived from
-ancient remain, containing aDNA.The sample is from the Vindija cave, nr 33.19
-and is highly diluted and deeply sequenced, aligned to the human reference
-genome hg19. It has been filtered for autosomes and sex chromosomes.
+ancient remain, containing aDNA.
 
 Usage:
 The program utilizes argparse, allowing the user to call inputting a BAM-file
