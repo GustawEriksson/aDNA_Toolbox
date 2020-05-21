@@ -17,6 +17,7 @@ Date: 06-06-2019
 Version: 1.0
 Contact: erikssongustaw@gmail.com
 
+# Introduction
 aDNA Toolbox is a command-line toolbox applied on BAM-files, to be used for
 analyzing aDNA to illustrate concepts of C to T substitutions, patterns of
 overlapping reads and nucleotide frequency at the ends of reads. Furthermore,
@@ -35,7 +36,7 @@ sys 3.7                              subprocess 3.7
 collections 3.7                      matplot.pyplot 3.1.0
 argparse 3.2                         numpy 1.3.0
 
-Usage:
+# Usage:
 The program utilizes argparse, allowing the user to call inputting a BAM-file
 and call different analytic functions. Some of the functions allows the output
 the data in an output file which the user has to supply. If an output is not
@@ -100,7 +101,7 @@ The program is runned by the following command:
 Besides calling the program and supplying a BAM-file, a flag with our without a
 output file has to be provided.
 
-WARNING:
+# WARNING:
 In its current state, the program will filter out reads containing soft (S in
 cigar) and hard clips (H in cigar), spliced ends (N in cigar) as well as
 padding (P in md) when calling the -ct, -ag and -freq flags.
