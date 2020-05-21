@@ -10,11 +10,14 @@
 
                 A proof-of-concept toolbox for ancient DNA
 
-README
+# README
 
 Author: Gustaw Eriksson
+
 Date: 06-06-2019
+
 Version: 1.0
+
 Contact: erikssongustaw@gmail.com
 
 # Introduction
