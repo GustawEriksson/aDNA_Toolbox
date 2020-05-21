@@ -10,7 +10,7 @@
 
                 A proof-of-concept toolbox for ancient DNA
 
-# README
+README
 
 Author: Gustaw Eriksson
 
